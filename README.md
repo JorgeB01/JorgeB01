@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JorgeB01
+- 👀 I’m interested in Videogames
+- 🌱 I’m currently learning pseudocode
